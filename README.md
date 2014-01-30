@@ -6,11 +6,11 @@ Windows form application
 
 ###Concepts used:
 
-Text..
+Tooltips, OpenFileDialog, eventhandlers.
 
 ###Functionality:
 
-Text..
+Open a file and display the file information in the textboxes and the checkboxes.
 
 
 ![alt tag](https://raw.github.com/andrewjhinger/Fileinfo/master/fileinfoform.JPG)
